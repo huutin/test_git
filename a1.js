@@ -1,1 +1,2 @@
-let a = 12345
+let a = 'feature1 changed'
+let b = 1
